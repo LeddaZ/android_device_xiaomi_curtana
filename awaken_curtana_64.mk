@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-$(call inherit-product, device/xiaomi/curtana/statix_curtana.mk)
+$(call inherit-product, device/xiaomi/curtana/awaken_curtana.mk)
 
 # Device identifier
-PRODUCT_NAME := statix_curtana_64
+PRODUCT_NAME := awaken_curtana_64

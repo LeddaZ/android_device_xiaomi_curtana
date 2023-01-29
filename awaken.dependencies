@@ -1,0 +1,32 @@
+[
+    {
+        "remote":       "gitlab",
+        "repository":   "LeddaZ/android_device_xiaomi_curtana-firmware",
+        "target_path":  "device/xiaomi/curtana-firmware",
+        "branch":       "tm-qpr1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "leddaz-stuff/android_hardware_xiaomi",
+        "target_path":  "hardware/xiaomi",
+        "branch":       "triton"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LeddaZ/android_kernel_xiaomi_sm6250",
+        "target_path":  "kernel/xiaomi/sm6250",
+        "branch":       "tm-qpr1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LeddaZ/android_vendor_xiaomi_curtana",
+        "target_path":  "vendor/xiaomi/curtana",
+        "branch":       "triton"
+    },
+    {
+        "remote":       "gitlab",
+        "repository":   "LeddaZ/android_vendor_xiaomi_miatoll-gcam",
+        "target_path":  "vendor/xiaomi/miatoll-gcam",
+        "branch":       "tm-qpr1"
+    }
+]
