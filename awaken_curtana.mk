@@ -32,6 +32,3 @@ TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 USE_GAPPS := true
 USE_PIXEL_CHARGER := true
-
-# Override build fingerprint
-BUILD_FINGERPRINT := Redmi/curtana_global/curtana:12/RKQ1.211019.001/V13.0.2.0.SJWMIXM:user/release-keys
