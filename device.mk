@@ -97,6 +97,7 @@ PRODUCT_PACKAGES += \
     libcamera2ndk_vendor \
     libdng_sdk.vendor \
     libgui_vendor \
+    libpiex_shim \
     libstdc++.vendor
 
 # DebugFS
@@ -353,10 +354,6 @@ PRODUCT_PACKAGES += \
 # Secure element
 PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.2.vendor
-
-# Shims
-PRODUCT_PACKAGES += \
-    libpiex_shim
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 29
