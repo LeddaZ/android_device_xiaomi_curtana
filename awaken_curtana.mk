@@ -13,9 +13,6 @@ $(call inherit-product, device/xiaomi/curtana/device.mk)
 # Inherit Awaken common configuration
 $(call inherit-product, vendor/awaken/config/common_full_phone.mk)
 
-# Inherit Google Camera
-$(call inherit-product, vendor/xiaomi/miatoll-gcam/miatoll-gcam-vendor.mk)
-
 # Device identifier
 PRODUCT_NAME := awaken_curtana
 PRODUCT_DEVICE := curtana
