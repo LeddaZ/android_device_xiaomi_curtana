@@ -259,19 +259,15 @@ PRODUCT_PACKAGES += \
 
 # Variant-specific overlays
 PRODUCT_PACKAGES += \
-    CurtanaGlobalPAFrameworksOverlay \
     CurtanaGlobalPASettingsOverlay \
     CurtanaGlobalPASettingsProviderOverlay \
     CurtanaGlobalPAWifiOverlay \
-    CurtanaGlobalTWOFrameworksOverlay \
     CurtanaGlobalTWOSettingsOverlay \
     CurtanaGlobalTWOSettingsProviderOverlay \
     CurtanaGlobalTWOWifiOverlay \
-    CurtanaIndiaFrameworksOverlay \
     CurtanaIndiaSettingsOverlay \
     CurtanaIndiaSettingsProviderOverlay \
     CurtanaIndiaWifiOverlay \
-    CurtanaJapanFrameworksOverlay \
     CurtanaJapanSettingsOverlay \
     CurtanaJapanSettingsProviderOverlay \
     CurtanaJapanWifiOverlay
