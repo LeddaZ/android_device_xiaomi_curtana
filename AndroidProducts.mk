@@ -6,14 +6,14 @@
 
 # Product Makefiles
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/statix_curtana.mk \
-    $(LOCAL_DIR)/statix_curtana_64.mk
+    $(LOCAL_DIR)/bootleg_curtana.mk \
+    $(LOCAL_DIR)/bootleg_curtana_64.mk
 
 # Lunch targets
 COMMON_LUNCH_CHOICES := \
-    statix_curtana-user \
-    statix_curtana-userdebug \
-    statix_curtana-eng \
-    statix_curtana_64-user \
-    statix_curtana_64-userdebug \
-    statix_curtana_64-eng
+    bootleg_curtana-user \
+    bootleg_curtana-userdebug \
+    bootleg_curtana-eng \
+    bootleg_curtana_64-user \
+    bootleg_curtana_64-userdebug \
+    bootleg_curtana_64-eng
