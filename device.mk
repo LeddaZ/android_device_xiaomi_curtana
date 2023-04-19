@@ -197,11 +197,6 @@ PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-impl \
     android.hardware.ir@1.0-service
 
-# Kernel
-LOCAL_KERNEL := device/xiaomi/curtana-kernel/Image
-PRODUCT_COPY_FILES += \
-    $(LOCAL_KERNEL):kernel
-
 # Keymaster
 PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0.vendor \
