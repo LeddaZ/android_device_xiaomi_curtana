@@ -22,5 +22,4 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Bootleggers flags
-BOOTLEGGERS_BUILD_APPS_BUNDLE := false
 WITH_GAPPS := true
